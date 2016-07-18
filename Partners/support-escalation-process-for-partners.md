@@ -204,7 +204,7 @@ These steps sit inside the “Restoration Process” within the overall Incident
     <tr>
       <td>Security SME Engagement</td>
       <td>On-call Security SME</td>
-      <td>security@t3n.zendesk.com</td>
+      <td>security@t3n.zendesk.com</td> This needs to be edited
     </tr>
     <tr>
       <td>Security Management Escalation (Warning – Do Not Abuse)</td>
